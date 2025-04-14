@@ -1,3 +1,6 @@
+# Autor: Elizangela Acioli
+
+
 menu = ""
 Saldo = 0
 Limite = 1500
